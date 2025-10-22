@@ -1,0 +1,23 @@
+.logo {
+  width: 120px;
+}
+
+h2 {
+  color: #2b2b2b;
+}
+
+.btn-success:hover {
+  background-color: #2fa66b;
+}
+
+.btn-primary:hover {
+  background-color: #4c8ff9;
+}
+footer {
+  font-size: 0.9rem;
+}
+
+.footer-logo {
+  width: 80px;
+  filter: brightness(0) invert(1);
+}
